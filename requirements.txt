@@ -3,4 +3,5 @@ pandas
 scikit-learn
 streamlit==1.15.0
 matplotlib==3.5.2
-altair.vegalite.v4
+altair
+protobuf<4.21.3
